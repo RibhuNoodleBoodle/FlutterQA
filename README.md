@@ -1,6 +1,6 @@
-# flutter_early_app
+# A Flutter Question and Answer App, it doesn't do anything else
 
-A new Flutter application.
+And it doesnt have to.
 
 ## Getting Started
 
